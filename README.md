@@ -97,12 +97,6 @@ SalesForecasting_Mrinal/
 
 ---
 
-## Model Comparison
-
-![Model Comparison](charts/model_comparison.png)
-
----
-
 ## XGBoost Forecast
 
 ![Forecast](charts/xgboost_forecast.png)
@@ -156,7 +150,10 @@ The Streamlit dashboard provides:
 - Forecast Explorer
 - Anomaly Report
 - Product Demand Segments
-![Dashboard](dashboard.png)
+![Dashboard](/charts/dashboard1.png)
+![Dashboard](/charts/dashboard2.png)
+![Dashboard](/charts/dashboard3.png)
+![Dashboard](/charts/dashboard4.png)
 ---
 
 # Future Improvements
